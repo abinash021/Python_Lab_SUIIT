@@ -1,7 +1,7 @@
 # Write a Python program to declare and initialize variables to store the following information: your name, age, and favorite programming language.
 
-name = "John Doe"
-age = 30
+name = "Abinash"
+age = 21
 favorite_language = "Python"
 
 print("Your Name is: ", name)
